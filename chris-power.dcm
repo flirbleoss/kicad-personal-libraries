@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PSK-S20C-12
+D 12V 20W 0AC-DC module-type power supply CUI
+K 12V 20W 0AC-DC module-type power supply
+F https://www.cui.com/product/resource/psk-s20c.pdf
+$ENDCMP
+#
+$CMP PSK-S20C-15
+D 15V 20W AC-DC module-type power supply CUI
+K 15V 20W AC-DC module-type power supply
+F https://www.cui.com/product/resource/psk-s20c.pdf
+$ENDCMP
+#
+$CMP PSK-S20C-24
+D 24V 20W AC-DC module-type power supply CUI
+K 24V 20W AC-DC module-type power supply
+F https://www.cui.com/product/resource/psk-s20c.pdf
+$ENDCMP
+#
+$CMP PSK-S20C-3
+D 3.3V 11.8W AC-DC module-type power supply CUI
+K 3.3V 11.8W AC-DC module-type power supply
+F https://www.cui.com/product/resource/psk-s20c.pdf
+$ENDCMP
+#
+$CMP PSK-S20C-5
+D 5V 18W AC-DC module-type power supply CUI
+K 5V 18W AC-DC module-type power supply
+F https://www.cui.com/product/resource/psk-s20c.pdf
+$ENDCMP
+#
+$CMP PSK-S20C-9
+D 9V 20W AC-DC module-type power supply CUI
+K 9V 20W AC-DC module-type power supply
+F https://www.cui.com/product/resource/psk-s20c.pdf
+$ENDCMP
+#
+#End Doc Library
