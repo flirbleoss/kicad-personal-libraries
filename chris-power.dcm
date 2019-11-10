@@ -36,4 +36,10 @@ K 9V 20W AC-DC module-type power supply
 F https://www.cui.com/product/resource/psk-s20c.pdf
 $ENDCMP
 #
+$CMP SDM10M45SD
+D Schottky diode array 2 pair series
+K diode schottky
+F https://www.diodes.com/assets/Datasheets/ds30386.pdf
+$ENDCMP
+#
 #End Doc Library
